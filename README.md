@@ -3,7 +3,7 @@
 **Asignatura:** Inteligencia Artificial  
 **Opción:** E – Agente Recolector de Basura Simple  
 **Fecha:** Febrero 2026
-**Autores:** 
+**Autores:** :
 * Rodrigo Salavador Breña Alvarado
 * Brandon Manuel Martínez Cruz
 * René Martínez Magaña
