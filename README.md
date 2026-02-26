@@ -4,9 +4,9 @@
 **Opción:** E – Agente Recolector de Basura Simple  
 **Fecha:** Febrero 2026
 **Autores:** 
-Rodrigo Salavador Breña Alvarado
-Brandon Manuel Martínez Cruz
-René Martínez Magaña
+* Rodrigo Salavador Breña Alvarado
+* Brandon Manuel Martínez Cruz
+* René Martínez Magaña
 
 
 ---
